@@ -1,6 +1,7 @@
 * {
     font-family: "Times New Roman", sans-serif;
     background-color: red;
+    margin: 10px;
 }
 
 body {
@@ -10,6 +11,8 @@ body {
 h1 {
     font-weight: 800;
     color: white;
+    text-align: center;
+    margin: 10px;
 }
 
 ul, ol, li, a {
